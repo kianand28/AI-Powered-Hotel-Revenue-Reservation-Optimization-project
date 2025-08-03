@@ -1,1 +1,1 @@
-# AI-Powered-Hotel-Revenue-Reservation-Optimization-project
+# AI-Powered-Hotel-Revenue-Optimization-project
